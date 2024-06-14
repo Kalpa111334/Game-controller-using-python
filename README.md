@@ -12,7 +12,7 @@ pip install mediapipe==0.8.3.1
 Deployment
 To deploy this project run
 
-# Please Subscribe my youtube channel "Problem Solve with Ridoy"
+"Source Code"
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 from pynput.keyboard import Key, Controller
